@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Sumit Chhillar
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=header&text=Sumit%20Chhillar%20🚀&fontSize=35&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=header&text=Sumit%20Chhillar%20🚀&fontSize=35&fontColor=ffffff" alt="Sumit Chhillar Banner"/>
 </p>
 
 <p align="center">
-  <em><strong><span style="color:#0e76a8; font-size:18px;">“Transforming complex data into powerful business insights — because great decisions start with great analytics.”</span></strong></em>
+  <em><strong>“Transforming complex data into powerful business insights — because great decisions start with great analytics.”</strong></em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=0E76A8&center=true&vCenter=true&width=750&lines=Senior+Data+Analyst+%7C+BI+Developer+%7C+Data+Engineer;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Cloud+Analytics+%7C+Machine+Learning+%7C+NLP+%7C+GenAI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=0E76A8&center=true&vCenter=true&width=750&lines=Senior+Data+Analyst+%7C+BI+Developer+%7C+Data+Engineer;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Cloud+Analytics+%7C+Machine+Learning+%7C+NLP+%7C+GenAI" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  📍 Niagara Falls, Ontario, Canada &nbsp;&nbsp;|&nbsp;&nbsp; 📧 sumitchhillarda@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; 📞 +1-437-966-9687
+  📍 Niagara Falls, Ontario, Canada &nbsp;&nbsp;|&nbsp;&nbsp; 📧 <a href="mailto:sumitchhillarda@gmail.com">sumitchhillarda@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; 📞 +1-437-966-9687
 </p>
 
 <p align="center">
@@ -21,15 +21,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=0E76A8&center=true&vCenter=true&width=750&lines=Building+Scalable+BI+Dashboards;Designing+ETL+and+ELT+Pipelines;Exploring+AI%2C+LLMs+%26+Automated+Insights"/>
-</p>  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=0E76A8&center=true&vCenter=true&width=750&lines=Building+Scalable+BI+Dashboards;Designing+ETL+and+ELT+Pipelines;Exploring+AI%2C+LLMs+%26+Automated+Insights" alt="Current Work"/>
+</p>
 
 ---
 
 ## 💼 About Me
 
-<img src="https://img.shields.io/badge/Open%20to-Data%20Analytics%20Roles-blueviolet?style=for-the-badge&logo=handshake" /> 
-<img src="https://img.shields.io/badge/Focus-BI%20%7C%20Cloud%20%7C%20AI-orange?style=for-the-badge&logo=bookstack" />
+<p>
+  <img src="https://img.shields.io/badge/Open%20to-Data%20Analytics%20Roles-blueviolet?style=for-the-badge&logo=handshake" alt="Open to Data Analytics Roles"/>
+  <img src="https://img.shields.io/badge/Focus-BI%20%7C%20Cloud%20%7C%20AI-orange?style=for-the-badge&logo=bookstack" alt="Focus BI Cloud AI"/>
+</p>
 
 I'm a **Senior Data Analyst with 8+ years of experience** in data analytics, business intelligence, ETL/ELT pipelines, dashboard development, cloud analytics, machine learning, NLP, and GenAI.
 
@@ -170,72 +172,79 @@ Built a business intelligence dashboard to analyze revenue, profit, customer seg
 
 ## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI%20%26%20LLMs-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Synapse"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/GenAI%20%26%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI and LLMs"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 ---
 
 ## 📌 Featured Portfolio
 
 🎯 Explore my dashboards, analytics projects, and case studies here:
+
 🔗 [**View Portfolio**](https://github.com/Sumit170694?tab=repositories)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit170694&show_icons=true&theme=tokyonight&hide_border=true" alt="Sumit's GitHub Stats" />
+  <a href="https://github.com/Sumit170694?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My-Repositories-0e76a8?style=for-the-badge&logo=github&logoColor=white" alt="View My Repositories"/>
+  </a>
+  <a href="https://github.com/Sumit170694?tab=stars">
+    <img src="https://img.shields.io/badge/View%20My-Starred%20Projects-yellow?style=for-the-badge&logo=github&logoColor=black" alt="View Starred Projects"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit170694&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Sumit170694">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+  <a href="https://github.com/Sumit170694?tab=followers">
+    <img src="https://img.shields.io/badge/Connect%20on-GitHub-0e76a8?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub"/>
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sumit170694&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
-![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit170694\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit170694\&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sumit170694\&theme=default)
 
 ---
 
 ## 🧮 Visitor Counter
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Sumit170694\&label=Profile%20Views\&color=0e76a8\&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sumit170694&label=Profile%20Views&color=0e76a8&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
 ## 💼 Hire Me
 
-![Hire Me](https://img.shields.io/badge/Available-Data%20Analytics%20%7C%20BI%20%7C%20Cloud%20Analytics-brightgreen?style=for-the-badge\&logo=freelancer\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Available-Data%20Analytics%20%7C%20BI%20%7C%20Cloud%20Analytics-brightgreen?style=for-the-badge&logo=freelancer&logoColor=white" alt="Available for Data Analytics BI Cloud Analytics"/>
+</p>
 
 📬 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sumit-chhillar-020a36323) or email at **[sumitchhillarda@gmail.com](mailto:sumitchhillarda@gmail.com)**.
 
 ---
 
-<a href="https://github.com/Sumit170694" target="_blank">
-  <img src="https://img.shields.io/badge/⭐%20View%20My%20GitHub-0e76a8?style=for-the-badge&logo=github" />
-</a>
-
-<a href="mailto:sumitchhillarda@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/💼%20Let's%20Work%20Together-blue?style=for-the-badge&logo=minutemailer" />
-</a>
+<p align="left">
+  <a href="https://github.com/Sumit170694" target="_blank">
+    <img src="https://img.shields.io/badge/⭐%20View%20My%20GitHub-0e76a8?style=for-the-badge&logo=github" alt="View My GitHub"/>
+  </a>
+  <a href="mailto:sumitchhillarda@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20Let's%20Work%20Together-blue?style=for-the-badge&logo=minutemailer" alt="Let's Work Together"/>
+  </a>
+</p>
 
 ## 🤝 Let's Connect
 

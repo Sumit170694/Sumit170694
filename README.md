@@ -194,6 +194,19 @@ Built a business intelligence dashboard to analyze revenue, profit, customer seg
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit170694&show_icons=true&theme=tokyonight&hide_border=true" alt="Sumit's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit170694&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sumit170694&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
 ![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit170694\&show_icons=true\&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit170694\&layout=compact)
